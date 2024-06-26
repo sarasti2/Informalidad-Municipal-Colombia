@@ -16,9 +16,9 @@ gcaribe;Variable binaria que indica si el municipio se encuentra en la región C
 gpacifica;Variable binaria que indica si el municipio se encuentra en la región Pacífica.;;;;;;;;;
 gorinoquia;Variable binaria que indica si el municipio se encuentra en la región Orinoquía.;;;;;;;;;
 gamazonia;Variable binaria que indica si el municipio se encuentra en la región de la Amazonia.;;;;;;;;;
-pruralpet;Proporción de la población rural en edad de trabajar sobre la poblacion en edad de trabajar total del municipio.;;;;;;;;;La población en edad de trabajar se calculo como personas mayores de 12 años en zonas urbanas y mayores a 10 años en zonas rurales, siguiendo la definición del DANE antes del 2023.
-pmujerpet;Proporción de las mujeres en edad de trabajar sobre la poblacion en edad de trabajar total del municipio.;;;;;;;;;La población en edad de trabajar se calculo como personas mayores de 12 años en zonas urbanas y mayores a 10 años en zonas rurales, siguiendo la definición del DANE antes del 2023.
-pdependiente;Proporcion de personas dependientes sobre el total de personas independientes. ;;;;;;;;;La población dependiente se calculo como aquellas personas menores a 12 o mayores a 65 años, guiados por la definición del DANE.
+pruralpet;Proporción de la población rural en edad de trabajar sobre la poblacion en edad de trabajar total del municipio.;La población en edad de trabajar se calculo como personas mayores de 12 años en zonas urbanas y mayores a 10 años en zonas rurales, siguiendo la definición del DANE antes del 2023.
+pmujerpet;Proporción de las mujeres en edad de trabajar sobre la poblacion en edad de trabajar total del municipio.;La población en edad de trabajar se calculo como personas mayores de 12 años en zonas urbanas y mayores a 10 años en zonas rurales, siguiendo la definición del DANE antes del 2023.
+pdependiente;Proporcion de personas dependientes sobre el total de personas independientes. ;La población dependiente se calculo como aquellas personas menores a 12 o mayores a 65 años, guiados por la definición del DANE.
 salario_bas;Media del salario en el municipio en pesos colombianos.;;;;;;;;;
 pregimen_subsidiado;Proporcion entre la población en el regimen subsidiado y la población total del municipio.;;;;;;;;;
 regimen_subsidiado;Número de personas del municipio inscritas al régimen subsidiado.;;;;;;;;;
