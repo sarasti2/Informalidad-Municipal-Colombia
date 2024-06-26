@@ -1,6 +1,6 @@
 # Diccionario de Datos
 
-Este diccionario de datos describe las variables utilizadas en el dataset. Cada variable está acompañada por una descripción que explica su significado y su relevancia en el contexto del dataset.
+Este diccionario de datos describe las variables utilizadas en el dataset. Cada variable está acompañada por una descripción.
 
 ## Variables
 
