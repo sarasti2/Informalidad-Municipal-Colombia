@@ -22,9 +22,9 @@ Este diccionario de datos describe las variables utilizadas en el dataset. Cada 
 | `gandina`                    | Variable binaria que indica si el municipio se encuentra en la región Andina.                                                                                                         |
 | `gcaribe`                    | Variable binaria que indica si el municipio se encuentra en la región Caribe.                                                                                                         |
 | `gpacifica`                  | Variable binaria que indica si el municipio se encuentra en la región Pacífica.                                                                                                       |
-| `gorinoquia`                 | Variable binaria que indica si el municipio se encuentra en la región Orinoquía. La población en edad de trabajar se calculó como personas mayores de 12 años en zonas urbanas y mayores de 10 años en zonas rurales, siguiendo la definición del DANE antes del 2023. |
-| `gamazonia`                  | Variable binaria que indica si el municipio se encuentra en la región de la Amazonia. La población en edad de trabajar se calculó como personas mayores de 12 años en zonas urbanas y mayores de 10 años en zonas rurales, siguiendo la definición del DANE antes del 2023. |
-| `pruralpet`                  | Proporción de la población rural en edad de trabajar sobre la población en edad de trabajar total del municipio. La población dependiente se calculó como aquellas personas menores de 12 o mayores de 65 años, guiados por la definición del DANE. |
+| `gorinoquia`                 | Variable binaria que indica si el municipio se encuentra en la región Orinoquía.                                                                                                     |
+| `gamazonia`                  | Variable binaria que indica si el municipio se encuentra en la región de la Amazonia.                                                                                                |
+| `pruralpet`                  | Proporción de la población rural en edad de trabajar sobre la población en edad de trabajar total del municipio.                                                                      |
 | `pmujerpet`                  | Proporción de las mujeres en edad de trabajar sobre la población en edad de trabajar total del municipio.                                                                             |
 | `pdependiente`               | Proporción de personas dependientes sobre el total de personas independientes.                                                                                                       |
 | `salario_bas`                | Media del salario en el municipio en pesos colombianos.                                                                                                                               |
@@ -52,14 +52,10 @@ Este diccionario de datos describe las variables utilizadas en el dataset. Cada 
 | `pgroup6`                    | Proporción de mujeres mayores de 54 en el municipio.                                                                                                                                  |
 | `informalidad`               | Estimado de informalidad utilizando la Gran Encuesta Integrada de Hogares (GEIH) para los municipios donde es representativa.                                                        |
 | `informalidad_var`           | Varianza del estimado de informalidad obtenida usando la GEIH.                                                                                                                        |
-| `fharcsin_est`               | Estimado de informalidad obtenido utilizando el método de estimación a pequeña escala con estimadores Fay-Herriot transformados con arcoseno.    
-  |
-|  `Low`                       | Limite inferior del intervalo de confianza del estimadores Fay-Herriot transformados con arcoseno.
-  |
-|  `Up`                       | Limite superior del intervalo de confianza del estimadores Fay-Herriot transformados con arcoseno.
-  |
+| `fharcsin_est`               | Estimado de informalidad obtenido utilizando el método de estimación a pequeña escala con estimadores Fay-Herriot transformados con arcoseno.                                         |
+| `Low`                        | Límite inferior del intervalo de confianza del estimador Fay-Herriot transformado con arcoseno.                                                                                      |
+| `Up`                         | Límite superior del intervalo de confianza del estimador Fay-Herriot transformado con arcoseno.                                                                                      |
 | `fh_benchmark`               | Estimado de informalidad obtenido utilizando el método de estimación a pequeña escala con estimadores Fay-Herriot.                                                                    |
 | `MERF_resultados`            | Estimados de informalidad obtenidos utilizando el método de bosque aleatorio de efectos mixtos (MERF por sus siglas en inglés).                                                      |
 | `lisa_clusters`              | Nombre del cluster LISA al cual pertenece el municipio.                                                                                                                               |
 | `lisa_clusters_nombres`      | Código del cluster LISA al cual pertenece el municipio.                                                                                                                               |
-
