@@ -52,7 +52,12 @@ Este diccionario de datos describe las variables utilizadas en el dataset. Cada 
 | `pgroup6`                    | Proporción de mujeres mayores de 54 en el municipio.                                                                                                                                  |
 | `informalidad`               | Estimado de informalidad utilizando la Gran Encuesta Integrada de Hogares (GEIH) para los municipios donde es representativa.                                                        |
 | `informalidad_var`           | Varianza del estimado de informalidad obtenida usando la GEIH.                                                                                                                        |
-| `fharcsin_est`               | Estimado de informalidad obtenido utilizando el método de estimación a pequeña escala con estimadores Fay-Herriot transformados con arcoseno.                                         |
+| `fharcsin_est`               | Estimado de informalidad obtenido utilizando el método de estimación a pequeña escala con estimadores Fay-Herriot transformados con arcoseno.    
+  |
+|  `Low`                       | Limite inferior del intervalo de confianza del estimadores Fay-Herriot transformados con arcoseno.
+  |
+|  `Up`                       | Limite superior del intervalo de confianza del estimadores Fay-Herriot transformados con arcoseno.
+  |
 | `fh_benchmark`               | Estimado de informalidad obtenido utilizando el método de estimación a pequeña escala con estimadores Fay-Herriot.                                                                    |
 | `MERF_resultados`            | Estimados de informalidad obtenidos utilizando el método de bosque aleatorio de efectos mixtos (MERF por sus siglas en inglés).                                                      |
 | `lisa_clusters`              | Nombre del cluster LISA al cual pertenece el municipio.                                                                                                                               |
